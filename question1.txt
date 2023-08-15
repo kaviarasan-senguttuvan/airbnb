@@ -1,0 +1,15 @@
+Questions:
+give me the output in csv format,
+i am looking for House,cottage,and Farm stay in country United States for 6 to 8 people and
+total rating needs to be more that 75 and cleanliness rating shoud be atleast 8.
+
+disply only below field:
+name
+house_rules
+property_type
+last review
+price
+picture_url
+address
+review score rating
+review score cleanliness
